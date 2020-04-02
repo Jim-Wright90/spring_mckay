@@ -1,0 +1,13 @@
+---
+title: "McKay Simulation Meetings"
+output: html_document
+---
+
+[Simulation Office Hour Repeated Meeting Fridays 3:30]( https://uoregon.zoom.us/j/425386254?pwd=d1ZwdjhzSFR2K0RCcjRrN01nMFRkdz09)
+
+[Simulation #1 Session 1 Group Monday April 6th 3:30]( https://uoregon.zoom.us/j/399307811?pwd=QWZTN3Y1bWF2c3Voa2FxQnRFM0dNdz09)
+
+[Simulation #1-5 Session 2 Group Repeated Meetings Tuesdays 3:00](https://uoregon.zoom.us/j/962407565?pwd=cG1TVGptV0crWFB0bFVycHpaalM2UT09)
+
+[Simulation #2-5 Session Group 1 Repeated Meetings Mondays 1:00 starting 4/13](https://uoregon.zoom.us/j/664980951?pwd=UzFqSk50WG9nZU10bXlPdFZaMVRVQT09)
+
